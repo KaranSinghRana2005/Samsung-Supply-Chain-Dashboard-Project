@@ -26,7 +26,6 @@ Dataset is simulated / taken from online sources (mention source if any)
 Includes: Orders, Inventory, Suppliers, Shipments data
 📸 Dashboard Preview
 
-👉 (Yaha screenshot upload karo GitHub pe aur yaha image link daalo)
 
 🚀 Key Insights
 Identified delays in shipment affecting customer satisfaction
