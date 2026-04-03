@@ -48,5 +48,5 @@ The project demonstrates how data analytics can improve supply chain efficiency 
 
 Karan Rana
 
-LinkedIn: (apna link daalo)
-GitHub: (apna link daalo)
+LinkedIn: (https://www.linkedin.com/in/%20karan-singh-rana-64274b262)
+GitHub: (https://github.com/KaranSinghRana2005/)
