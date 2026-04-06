@@ -47,6 +47,7 @@ Includes: Orders, Inventory, Suppliers, Shipments data
 
  <img width="1744" height="725" alt="image" src="https://github.com/user-attachments/assets/985dbf1b-f1f7-4c9d-abc3-1b1deec1773c" />
 
+ <img width="1740" height="738" alt="image" src="https://github.com/user-attachments/assets/e2092ed1-31fc-4f39-aafe-5c8b1a49c66c" />
 
 
 🚀 Key Insights
