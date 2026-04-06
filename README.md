@@ -41,6 +41,9 @@ Includes: Orders, Inventory, Suppliers, Shipments data
 
 <img width="1740" height="746" alt="image" src="https://github.com/user-attachments/assets/0067f86e-3b8e-4f6e-8d49-80d813d51a7f" />
 
+<img width="1744" height="737" alt="image" src="https://github.com/user-attachments/assets/a71c34ed-cd31-4e75-9b33-4a9ae2875491" />
+
+
 🚀 Key Insights
 Identified delays in shipment affecting customer satisfaction
 Found inventory imbalance in certain regions
