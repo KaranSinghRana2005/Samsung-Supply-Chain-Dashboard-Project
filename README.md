@@ -43,6 +43,7 @@ Includes: Orders, Inventory, Suppliers, Shipments data
 
 <img width="1744" height="737" alt="image" src="https://github.com/user-attachments/assets/a71c34ed-cd31-4e75-9b33-4a9ae2875491" />
 
+<img width="1740" height="742" alt="image" src="https://github.com/user-attachments/assets/3fcfdffd-aa50-4d49-bce1-f7215d842a7e" />
 
 🚀 Key Insights
 Identified delays in shipment affecting customer satisfaction
