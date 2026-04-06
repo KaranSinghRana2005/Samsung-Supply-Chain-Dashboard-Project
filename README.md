@@ -66,8 +66,12 @@ Make data-driven decisions
 
 The project demonstrates how data analytics can improve supply chain efficiency and support strategic decision-making.
 
+
 🔗 Author
 Karan Singh Rana
 
 LinkedIn: (https://www.linkedin.com/in/%20karan-singh-rana-64274b262)
+
 GitHub: (https://github.com/KaranSinghRana2005/)
+
+⭐ If you like this project, give it a star!
