@@ -23,14 +23,14 @@ Improve decision-making using data insights
 
 
 🛠️ Tools & Technologies Used
-Power BI / Tableau / Excel (jo use kiya hai woh likhna)
+Power BI /  Excel 
 SQL (for data extraction & validation)
 Excel (data cleaning & preprocessing)
 
 
 
 📂 Dataset
-Dataset is simulated / taken from online sources  
+Dataset is simulated / Kaggle
 Includes: Orders, Inventory, Suppliers, Shipments data
 
 
